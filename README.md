@@ -43,6 +43,26 @@ https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 |  六   |      實習       |        | [微處理機][236] |             |       |
 |  七   |      實習       |        |    微處理機     |             |       |
 
+## 國文期末考範圍
+
+一、(形音義、作者、文義、修辭、國學全考)
+
+1. L8赤壁賦(默書:客亦知夫……所共適)
+
+2. 補充文選 5 東坡詩選
+
+(1) 和子由澠池懷書
+
+(2) 贈劉景文
+
+3.L9現代詩選
+
+4.自學篇  現代詩選(國常見補充講義P130~132)
+
+二、閱讀測驗
+
+L10成敗皆網路，突圍亦網路
+
 [136]:https://meet.google.com/zhd-qxdr-hid
 [141]:https://meet.google.com/gxy-bjpm-dui
 [211]:https://meet.google.com/oip-qubt-pef
