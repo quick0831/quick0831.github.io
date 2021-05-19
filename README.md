@@ -1,5 +1,7 @@
 # 課表整理
 
+[電子二甲體溫量測回報單](https://docs.google.com/forms/d/e/1FAIpQLSfgFXoUGCK3FxRVkTYcgu1SS_Lf_Owca1c3xHMoXQK2cEwaCA/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
+
 ## 實習
 
 [單晶片微處理機A組 Google meet][001]
@@ -10,6 +12,12 @@
 
 [Monostable Multivibrator](
 https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
+
+## ono
+
+[健康課程](https://ono.tp.edu.tw/course/join/3DG136NNCSDN)
+
+[愛滋病課程](https://ono.tp.edu.tw/course/join/4M3N49T46SWX)
 
 ## 5/17~5/21
 
