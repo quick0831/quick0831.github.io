@@ -17,6 +17,14 @@ https://www.youtube.com/watch?v=ypV6gdIJJU4&t=130s)
 
 [愛滋病課程](https://ono.tp.edu.tw/course/join/4M3N49T46SWX)
 
+## 電子學 HW
+
+[練習卷](https://drive.google.com/file/d/15nkeJ40B0xGG4cbe9IMH-zBmJ4nQ_l4L/view?usp=sharing)
+
+[講解影片](https://drive.google.com/file/d/1X_OCgfro1N6PHNqg8JdgAgRcrIg6Zfus/view?usp=sharing)
+
+信箱：zheedu93@gmail.com
+
 ## 5/17~5/21
 
 | 時間  |  一   |  二   |       三        |             四             |      五       |
